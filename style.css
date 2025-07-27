@@ -1,0 +1,159 @@
+
+
+
+.twitter-container{
+   max-width: 18%;
+   min-width: 10%;
+   max-height: 10%;
+   min-height: 700%; 
+   border: 2px solid black;
+   box-shadow: 5px 5px 20px black;
+}
+.twitter-container:hover{
+   background-color: rgb(43, 43, 247);
+   color: white;
+   border: rgb(43, 43, 247);
+   box-shadow: 5px 5px 20px rgb(62, 62, 230);
+}
+.twitter-para{
+   text-align: center;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+.twitter-heading{
+   text-align: center;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.twitter-button{
+   font-size: 10px;
+   padding-left: 65px;
+   padding-right: 65px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border-radius: 20px;
+   margin-top: 2px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   background-color: black;
+   color: white;
+}
+.twitter-button:active{
+   background-color: white;
+   color: blue;
+}
+#twitter-icon{
+   font-size: 55px;
+   margin-top: 20px;
+   margin-left: 75px;
+}
+
+
+.insta-container{
+   max-width: 18%;
+   min-width: 10%;
+   max-height: 10%;
+   min-height: 700%; 
+   border: 2px solid black;
+   box-shadow: 5px 5px 20px black;
+}
+.insta-container:hover{
+   background-color: rgb(230, 21, 184);
+   color: white;
+   border: rgb(214, 10, 153);
+   box-shadow: 5px 5px 20px rgb(230, 61, 193);
+}
+.insta-para{
+   text-align: center;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+.insta-heading{
+   text-align: center;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.insta-button{
+   font-size: 10px;
+   padding-left: 65px;
+   padding-right: 65px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border-radius: 20px;
+   margin-top: 2px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   color: white;
+   background-color: black;
+}
+.insta-button:active{
+   background-color: white;
+   color: rgb(216, 7, 105);
+}
+#insta-icon{
+   font-size: 55px;
+   margin-top: 20px;
+   margin-left: 75px;
+}
+
+.yt-container{
+   max-width: 18%;
+   min-width: 10%;
+   max-height: 10%;
+   min-height: 700%; 
+   border: 2px solid black;
+   box-shadow: 5px 5px 20px black;
+}
+.yt-container:hover{
+   background-color: rgb(236, 18, 18);
+   color: white;
+   border: rgb(218, 10, 10);
+   box-shadow: 5px 5px 20px rgb(226, 62, 62);
+}
+.yt-para{
+   text-align: center;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+.yt-heading{
+   text-align: center;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.yt-button{
+   font-size: 10px;
+   padding-left: 65px;
+   padding-right: 65px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border-radius: 20px;
+   margin-top: 2px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   color: white;
+   background-color: black;
+}
+.yt-button:active{
+   background-color: white;
+   color: rgb(216, 7, 7);
+}
+#yt-icon{
+   font-size: 55px;
+   margin-top: 20px;
+   margin-left: 75px;
+}
