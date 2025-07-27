@@ -1,0 +1,200 @@
+body {
+    background-color: antiquewhite;
+}
+
+.card-container1 {
+    max-width: 10%;
+    min-width: 20%;
+    max-height: 300%;
+    min-height: 30%;
+    border: 2px solid blue;
+    background-color: blue;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.img-container1 {
+    width: 40%;
+    height: 15%;
+    border-radius: 75px;
+    border: 7px double white;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 70px;
+    background-color: blue;
+}
+
+.card-container11 {
+    max-width: 10%;
+    min-width: 20%;
+    max-height: 300%;
+    min-height: 30%;
+    border: 2px solid white;
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.heading-container1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding-left: 10px;
+
+}
+
+.para-container1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button-container1 {
+    font-size: 16px;
+    margin-left: 55px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+    border: 1px solid rgb(9, 9, 158);
+}
+
+
+.card-container2 {
+    max-width: 10%;
+    min-width: 20%;
+    max-height: 300%;
+    min-height: 30%;
+    border: 2px solid blue;
+    background-color: blue;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.img-container2 {
+    width: 40%;
+    height: 15%;
+    border-radius: 75px;
+    border: 7px double white;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 70px;
+    background-color: blue;
+}
+
+.card-container22 {
+    max-width: 10%;
+    min-width: 20%;
+    max-height: 300%;
+    min-height: 30%;
+    border: 2px solid white;
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.heading-container2 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding-left: 10px;
+
+}
+
+.para-container2 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button-container2 {
+    font-size: 16px;
+    margin-left: 55px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+    border: 1px solid rgb(9, 9, 158);
+}
+
+
+.card-container3 {
+    max-width: 10%;
+    min-width: 20%;
+    max-height: 300%;
+    min-height: 30%;
+    border: 2px solid blue;
+    background-color: blue;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.img-container3 {
+    width: 40%;
+    height: 15%;
+    border-radius: 75px;
+    border: 7px double white;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 70px;
+    background-color: blue;
+}
+
+.card-container33 {
+    max-width: 10%;
+    min-width: 20%;
+    max-height: 300%;
+    min-height: 30%;
+    border: 2px solid white;
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.heading-container3 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding-left: 10px;
+
+}
+
+.para-container3 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button-container3 {
+    font-size: 16px;
+    margin-left: 55px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+    border: 1px solid rgb(9, 9, 158);
+}
