@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar123{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: black;
+    
+}
+.navbar123 > img{
+    display: inline-block;
+    /* width: 20px; */
+    height: 80px;
+    margin-left: 120px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+.navbar123 > ul{
+    margin-left: 400px;
+}
+.navbar123 > ul > li{
+    display: inline-block;
+    padding-left: 20px;
+    color: white;
+}
+.button-link1{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.button-link2{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.body-div1{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-top: 45px;
+}
+.para1{
+    text-align: center;
+    font-size: 50px;
+}
+.salt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;    
+}
+.para2{
+    color: rgb(160, 158, 158);
+    
+}
+.body-div2{
+    background-color: rgb(22, 21, 21);
+}
+.salt2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    
+}
+.body-div2{
+    background-image: linear-gradient(rgba(95, 94, 94, 0),rgb(95, 94, 94, 0)), url(a4195117-d4ae-45d4-9088-21162bacdfb1.webp);
+    background-repeat: no-repeat;
+    background-position: right 20px;
+}
+.body-div2 > h2{
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.islamabad{
+    color: rgb(201, 6, 6) !important;
+    letter-spacing: 6px !important;
+    font-size: 20px !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+.salt3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px; 
+}
+.isl-div{
+    background-color: rgb(22, 21, 21) !important;
+}
+.isl-button{
+    background-color: rgb(22, 21, 21);
+}
+.salt4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px; 
+}
+.button1{
+    margin-left: 110px;
+}
+.body-div4{
+    background-color: rgb(22, 21, 21);
+}
+.Opening{
+    letter-spacing: 5px;
+}
+.sub-div{
+    background-color: rgb(22, 21, 21);
+}
+.sub-div1{
+    background-color: rgb(22, 21, 21) !important;
+    border: none !important;
+}
